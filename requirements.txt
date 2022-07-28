@@ -1,0 +1,7 @@
+imutils
+opencv-python
+scikit-image
+pytesseract
+numpy
+#d:/anpr_final/venv/Scripts/activate.bat
+#py anprdriver.py -i ./overseas
